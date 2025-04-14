@@ -36,4 +36,4 @@ To analyze 12 months of retail sales data to uncover patterns in sales, identify
 **📈 Result/Impact:**  
 This project demonstrates the ability to process raw business data and extract meaningful insights using the data analysis life cycle. The results can be directly used by marketing and operations teams for revenue optimization and strategy planning.
 
-**👨‍💻 Author:** Anshul Mane
+
